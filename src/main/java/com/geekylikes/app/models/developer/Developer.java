@@ -1,4 +1,4 @@
-package com.geekylikes.app.models;
+package com.geekylikes.app.models.developer;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
